@@ -1,4 +1,5 @@
 # ToDo List - React Native
+![Screenshot](./assets/Screenshot.png)
 
 ## What's all about?
 
@@ -19,7 +20,7 @@ If you would like to try out this React Native app, clone this repository locall
 
 ## Installation:
 
-This projects uses Expo, so you'll need to have Expo installed in your computer ()
+This projects uses Expo, so you'll need to have Expo installed in your computer (https://docs.expo.dev/get-started/installation/)
 
 1. Clone this repository in your computer:
 ```
