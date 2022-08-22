@@ -1,5 +1,6 @@
 # ToDo List - React Native
-![Screenshot](./assets/Screenshot.png)
+<!-- ![Screenshot](./assets/Screenshot.png) -->
+<img src="./assets/Screenshot.png" alt="screenshot" width="200"/>
 
 ## What's all about?
 
